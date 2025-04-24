@@ -11,3 +11,10 @@ Hello!  This is me, at 11pm, before I need to get up at 5 or so for work.  Going
  - Not go insane, while also going insane
 
 Now, I have a whole lot on my mind, but I think the rest is probably better explained after work, and not right before bed, although those times should probably be closer than they are.  
+
+---
+
+Some links for me in the future.
+[Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+[Blog setup/examples](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
+[more blog examples](https://emmatheeng.github.io/projects/blog_setup.html)
