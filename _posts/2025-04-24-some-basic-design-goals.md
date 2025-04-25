@@ -39,3 +39,4 @@ This will be the very first iteration of design goals for my SAP-2/3/whatever co
 - [Ben Eater](https://www.youtube.com/@BenEater)
 - [Fadil Isamotu's blog](https://fadil-1.github.io/blog/8-bit_breadboard_CPU/overview/)
 - [Fadil Isamotu's github](https://github.com/Fadil-1/8-BIT-BREADBOARD-CPU)
+- [visrealm's vrcpu github](https://github.com/visrealm/vrcpu?tab=readme-ov-file)

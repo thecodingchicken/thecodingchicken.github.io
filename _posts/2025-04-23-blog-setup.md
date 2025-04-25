@@ -16,5 +16,7 @@ Now, I have a whole lot on my mind, but I think the rest is probably better expl
 
 Some links for me in the future.
 [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
 [Blog setup/examples](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
+
 [more blog examples](https://emmatheeng.github.io/projects/blog_setup.html)
