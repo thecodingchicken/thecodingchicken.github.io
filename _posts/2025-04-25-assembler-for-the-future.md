@@ -1,6 +1,6 @@
 ## Assembler for the Future
 
-Just finished using Grok for my assembler for the computer.  It took a decent bit of time, but far less than it would have to do it myself.  And like, yes, [others](https://hlorenzi.github.io/customasm/web/) do exist, but this is mine, and I can do with it what I want.  Maybe I'll make it a web app sometime.  It's in python though, so who knows.  However, it is a good step towards my final goal, which would almost be a compiler to translate something legible like Basic or, HOPEFULLY, C/C++.  Or, I might try to make my computer able to run gcc or tcc.  But, I think that's a _very_ far step, and I don't even know if it's possible without going to something much more advanced.  
+Just finished using Grok for [my assembler](https://github.com/thecodingchicken/8-bit-assembler) for the computer.  It took a decent bit of time, but far less than it would have to do it myself.  And like, yes, [others](https://hlorenzi.github.io/customasm/web/) do exist, but this is mine, and I can do with it what I want.  Maybe I'll make it a web app sometime.  It's in python though, so who knows.  However, it is a good step towards my final goal, which would almost be a compiler to translate something legible like Basic or, HOPEFULLY, C/C++.  Or, I might try to make my computer able to run gcc or tcc.  But, I think that's a _very_ far step, and I don't even know if it's possible without going to something much more advanced.  
 
 #### 4-24 Update.
 
@@ -28,3 +28,10 @@ This book, [Digital Computer Electronics](https://thecodingchicken.com/chips/com
 I highly recommend printing out Digital Computer Electronics, and maybe some other books as well, found [here](https://thecodingchicken.com/chips/computer%20design/).  I'll continue uploading future books that I found on the subject there.  I haven't read all of them, but they seemed relevant in the quest for knowledge and future builds.  
 
 I'm going to get back to testing out my SAP-1, as it was acting weirdly.  But the manual inputting of data has really shown me how annoying it is to program stuff, even when you only have 10 lines of code.
+
+---
+I updated the assembler a fair bit, and got some new fibonacci code generated.  But something's still goofed up, so I guess I'll have to try it again later.  Might have been me entering it in or something, as other code worked.  
+I'm probably going to set this up temporarily with an arduino.  
+
+
+You know, I might end up upgrading the SAP-1 to 256 bytes of ram, for better programming in the future.  I think that's a fair upgrade to it without reinventing the whole thing.  
