@@ -1,0 +1,4 @@
+## Continuing the register build
+
+I've setup the decoding logic for the registers, which will consist of two groups, ram in, and ram out.  The ram in is controlled by a [74hc138](https://www.mouser.com/datasheet/2/149/mm74hc138-303670.pdf) and two [74hc02](https://www.jameco.com/Jameco/Products/ProdDS/45188FSC.pdf).  The NOR gate is required to combine the control logic and the clock signal, otherwise there's no way to make it only work on the clock pulse.  Ram out is controlled by another 74HC138 and two [74hc04](https://www.jameco.com/Jameco/Products/ProdDS/45209FSC.pdf)'s, as the output on the 245's are active LOW.  
+I've decided on using yellow for control signals, and I guess gray for modified control signals.  Plus, more colors is more better, right?  I've started a 
