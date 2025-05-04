@@ -13,6 +13,15 @@ I'll probably wire it all up as if the NOR's in place, but just can't test it un
 So I think the final layout of the board will be 3 breadboards, with the bottom one handling the control logic(3-8 decoding for both inputs and outputs), NOR gates for combining clock and register in controls, and maybe some led stuff.  Or, more likely, space for something else that I'm forgetting.  I do need to implement a shift register somewhere I suppose...don't know how that's gonna happen.
 But that's a topic for another day, I need to get some sleep.  
 
+
 ---
 ### Things to consider for the future
 How do I want to implement a shift register?  Jameco doesn't have a 74hc194 4-bit shift register, need to look around for other options.  
+
+---
+## Here's my progress for the day.
+<figure>
+  <div>
+  <img src="{{site.url}}/assets/img/20250504_092106.jpeg" alt="Day 1 register progress"/>
+  </div>
+</figure>
