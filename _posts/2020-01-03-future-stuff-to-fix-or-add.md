@@ -11,3 +11,7 @@
 
 ### Thoughts for the future
 - Use enamel wire to display contents of all registers?
+
+
+### Some very useful links
+[1](http://www.aholme.co.uk/Links.htm)
