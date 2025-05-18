@@ -9,6 +9,7 @@ To fix this without re-wiring those 16 lines, I'll have to adjust the Data input
 So the order of the bus, with B0-B7(B0 on the left(MSB), B7 on the right(LSB)), will result in the wiring in the table below.  
 
 ### Pin connection order (the A sides of the 74hc245's are connected)
+
 | Bus | 74hc245 pin | 74hc161 chip&pin      |
 |-----|-------------|-----------------------|
 | B3  | 2           | high, Data input A 3  |
