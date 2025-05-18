@@ -13,3 +13,4 @@ I want to lay out the basic building plans here, mainly about color and design c
 | Yellow  | Control | Control Lines from Flash     |
 | Orange  | Reset   | Reset lines				   |
 | Violet  | LEDs    | wires for LED display boards |
+| Brown   | Misc    | Flags, other listed things   |
