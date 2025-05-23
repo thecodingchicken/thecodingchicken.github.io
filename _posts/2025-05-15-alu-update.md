@@ -17,6 +17,7 @@ Ordering 4x 74hc191 from digikey at some point for the stack pointer, just a not
 
 
 ## Flag Register
+
 I'm going with a 74hc574 because, why not...I already use it everywhere else.  Hopefully it doesn't come back to bite me, I don't think it will.
 ------------------------------------------------------
 | D1 | Carry Output | From high 181(left, pin 16)    |
