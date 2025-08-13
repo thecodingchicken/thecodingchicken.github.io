@@ -1,10 +1,11 @@
 ## Stuff I need to buy
 
-- Potentially another 100ft purple wire roll (2154880)
-- Potentially another 100ft grey wire roll(2154898)
-- 20x 74h595 shift registers (serial-in parallel-out) I use these everywhere it seems
-- 10x 74hc165 shift registers (parallel-in serial-out)
-- 10x 1N5817 schottky diodes - for arduino nano, use to not allow backfeed(also lower forward voltage drop)
+<!-- - Potentially another 100ft purple wire roll (2154880) -->
+<!-- - Potentially another 100ft grey wire roll(2154898) -->
+<!-- - Potentially another 100ft blue wire roll (2152884) -->
+<!-- - 20x 74h595 shift registers (serial-in parallel-out) I use these everywhere it seems -->
+<!-- - 10x 74hc165 shift registers (parallel-in serial-out) -->
+<!-- - 10x 1N5817 schottky diodes - for arduino nano, use to not allow backfeed(also lower forward voltage drop) -->
 - 10x 74hc191 synchronous binary up/down counter - 4 are being used for the stack pointer
 	Stack pointer uses 4 counters, high and low byte SP-H, SP-L
 	Control signals:
@@ -15,7 +16,10 @@
 		6 signals total
 		can use a 3-8 decoder
 		(BLANK, high in, high out, low in, low out), stack count enable, stack pointer up/down
-- 30x BC327 PNP transistors - for multiplexing outputs
-- 5x atmega328p
-- 10x crystal 16.000MHz
+- <!-- 30x BC327 PNP transistors - for multiplexing outputs - common anode
+- 30x BC337 NPN transistors - for multiplexing outputs - common cathode -->
+<!-- - 5x atmega328p -->
+<!-- - 10x crystal 16.000MHz -->
 <!-- - aries 40-6554-10 zif socket -->
+<!-- - 10x CD74HC283E 4-bit adder - https://tomnisbet.github.io/nqsap/docs/dxy-registers/ seems like a neat idea to implement to save cycles -->
+- 10x 74hc74 - dual d-type flip-flop
