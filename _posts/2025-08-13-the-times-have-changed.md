@@ -1,0 +1,11 @@
+## Times have changed
+---
+
+If for some strange reason someone is actually reading this, they'll notice how there's a large gap between this post and the previous one.  In short, I ended up coming back home for a new contract, and I literally haven't touched my computer.  I'm about to put it in storage until the next time that I get back to it, or if I decide that it just isn't for me and I try to sell off the parts(probably on reddit or something).  It'll be at a loss at that point, but that's how life goes.  It probably wasn't the smartest financial decision that I've made this year.  
+
+Speaking of that, that's been my top priority this August.  Looking at how much money that I've spent, compared to how much I've earned...is quite sad.  My current job has given me the ability to save a bunch of money, and I haven't done too well of a job at that.  So, I've really cracked down on my spendings, and I'm attempting to do better the rest of the year.  Another thing I'm trying to do is declutter and live in less trash&just general nonsense.  I've never been a neat person, but admittedly it has gotten out of hand.  I'm almost tripping around in my room, which is really a problem at this point.  And, I have a storage room full of stuff that I don't need anymore.  So in doing that, I'm going to try to sell off a bunch of old things, mainly books & electronics.  That's a majority of what I've collected that I still have.  
+I went through my clothes a week or so ago, and those weren't hard, I have some more that I could actually get rid of if I tried.  But it's much more manageable now than it was a couple weeks ago.  I even donated a couple boxes to a church yard sale as I had no real need for them.  Eventually, I'd like to settle down to one style of shirt(I like button-down shirts), jeans/shorts, and maybe a jacket or two.  I kept a couple of old work shirts, but that's really just for sentimental reasons.  It doesn't make much sense outside of that, with only a couple of them fitting&feeling well enough for work day shirts.  I don't really feel like representing a company in general, especially if I'm not currently getting paid by them.
+
+I have a couple of other things that I'd like to talk about, but that's a topic for another day.  
+
+Ciao - cc
