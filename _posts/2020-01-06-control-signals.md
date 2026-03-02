@@ -3,6 +3,7 @@ I'm making this to keep track of what's what and how to make each thing work.  I
 
 
 _Just a note - for the Mode, Inverted means Low makes it work, duh_
+
 | Board           | Signal         | Mode     |   Description                                    |
 |-----------------|----------------|----------|--------------------------------------------------|
 | ProgCounter     | CounterOutHigh | Inverted | CounterHighByte-->Bus, Instant                   |
