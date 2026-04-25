@@ -11,7 +11,7 @@ I want to lay out the basic building plans here, mainly about color and design c
 | Green   | Other   | Intra-board stuff            |
 | Gray    | Control | Processed Control Lines      |
 | Yellow  | Control | Control Lines from Flash     |
-| Orange  | Reset   | Reset lines				   |
+| Orange  | Reset   | Reset lines&Arduino Controls |
 | Violet  | LEDs    | wires for LED display boards |
 | Brown   | Misc    | Flags, other listed things   |
 
