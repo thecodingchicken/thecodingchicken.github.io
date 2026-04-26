@@ -46,3 +46,9 @@ So I think the 4th line is used as an overall enable IO for the module, whereas 
 
 A12-A14 will stay grounded, for future use(I think).
 A0-A3 are Ring Counter bits, A4-A11 are OPCODE, A12-A14 are unused, and A15-A16 are for chip selection bits.  
+
+Y9(Pin10) of right 74hc154 goes to WI(74hc574 of Instruction Register) via AND Gate with clock signal to only load it at the proper time.  
+Y8 of right 74hc154 goes to CounterInHigh of the Program counter
+Y7 of right 74hc154 goes to CounterInLow of the Program counter
+Y8 of left 74HC154 goes to CounterOutHigh of the Program counter
+Y7 of left 74hc154 goes to CounterOutLow of the Program counter
